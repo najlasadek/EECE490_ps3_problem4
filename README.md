@@ -44,3 +44,7 @@ Each architecture was trained with three different optimizers:
 - SGD (lr=0.01)
 - Adam (lr=0.001)
 - RMSprop (lr=0.001)
+
+## Using the code
+-have main.py in the same folder as the codes in src
+-run main.py
